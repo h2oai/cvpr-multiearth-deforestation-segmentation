@@ -1,6 +1,5 @@
-# multi-earth-2023
-CVPR 2023 Workshop on Multimodal Learning for Earth and Environment
-
+# CVPR 2023 Workshop on Multimodal Learning for Earth and Environment
+https://sites.google.com/view/rainforest-challenge/multiearth-2023
 
 # Deforestation segmentation
 
