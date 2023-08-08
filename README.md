@@ -1,6 +1,10 @@
 # CVPR 2023 Workshop on Multimodal Learning for Earth and Environment
 https://sites.google.com/view/rainforest-challenge/multiearth-2023
 
+### Paper
+[Rapid Deforestation and Burned Area Detection using Deep Multimodal Learning on Satellite Imagery](https://arxiv.org/abs/2307.04916)
+
+
 # Deforestation segmentation
 
 ![Pipeline](figures_for_paper/earth-unetV3.png)
